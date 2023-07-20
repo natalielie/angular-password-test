@@ -30,7 +30,7 @@ Poor state of the password (only characters or numbers or symbols):
 
 
 Average state of the password (combinations of letters-symbols/letters-digits/digits-symbols):
-![image](https://github.com/natalielie/angular-password-test/assets/64886645/85362719-9142-4787-b767-da91bbc9fd8c)
+![image](https://github.com/natalielie/angular-password-test/assets/64886645/de49808a-f0ce-4485-a536-b5c4ed9888e2)
 
 
 Good state of the password (has letters, symbols and numbers):
