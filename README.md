@@ -17,9 +17,11 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 This program checks the password strength. It was developed using Angular with Bootstrap and Sass libraries
 
 Initial form:
+
 ![image](https://github.com/natalielie/angular-password-test/assets/64886645/4a5a5acc-c273-444b-8461-783fb90556e8)
 
 Less than 8 characters in the password:
+
 ![image](https://github.com/natalielie/angular-password-test/assets/64886645/04926e65-4cfb-49cb-ae29-ea00f5979bbd)
 
 
@@ -32,5 +34,6 @@ Average state of the password (combinations of letters-symbols/letters-digits/di
 
 
 Good state of the password (has letters, symbols and numbers):
-![Uploading image.png…]()
+![image](https://github.com/natalielie/angular-password-test/assets/64886645/c2a48394-24cb-4ad6-b495-a7d8666cc743)
+
 
