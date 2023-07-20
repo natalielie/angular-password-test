@@ -10,7 +10,7 @@
               [ngClass]="{ 'is-valid': (submitted || f.password.dirty) && !f.password.errors, 
                'is-invalid': (submitted || f.password.dirty) && f.password.errors }">
             <app-password-strength [passwordToCheck]="passwordForm.value.password" 
-            (passwordStrength)="onPasswordStrengthChanged($event)">
+            (passwordStrength)="onPasswordStrengthChanged($event)"> 
           </app-password-strength>
           
             <div class="invalid-feedback" *ngIf="f.password.errors">

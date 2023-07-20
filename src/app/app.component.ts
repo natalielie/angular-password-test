@@ -12,7 +12,7 @@ export class AppComponent {
   submitted = false;
   working = false;
   complete = false;
-  strongPassword = false;
+  strongPassword = false; 
 
   passwordForm = new FormGroup({
     password: new FormControl(null, [

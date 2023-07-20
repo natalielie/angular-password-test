@@ -7,7 +7,7 @@ import { Component, EventEmitter, Input, OnChanges, Output, SimpleChange } from 
 })
 
 export class PasswordStrengthComponent implements OnChanges {
-  bar0!: string;
+  bar0!: string; 
   bar1!: string;
   bar2!: string;
 
