@@ -14,14 +14,23 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+This program checks the password strength. It was developed using Angular with Bootstrap and Sass libraries
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Initial form:
+![image](https://github.com/natalielie/angular-password-test/assets/64886645/4a5a5acc-c273-444b-8461-783fb90556e8)
 
-## Running end-to-end tests
+Less than 8 characters in the password:
+![image](https://github.com/natalielie/angular-password-test/assets/64886645/04926e65-4cfb-49cb-ae29-ea00f5979bbd)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+Poor state of the password (only characters or numbers or symbols):
+![image](https://github.com/natalielie/angular-password-test/assets/64886645/7faa50ca-4df8-42da-9075-5452c61a6112)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Average state of the password (combinations of letters-symbols/letters-digits/digits-symbols):
+![image](https://github.com/natalielie/angular-password-test/assets/64886645/85362719-9142-4787-b767-da91bbc9fd8c)
+
+
+Good state of the password (has letters, symbols and numbers):
+![Uploading image.png…]()
+
